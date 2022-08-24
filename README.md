@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/noi5enu1sanc3/dom-react-redux-project-12/workflows/hexlet-check/badge.svg)](https://github.com/noi5enu1sanc3/dom-react-redux-project-12/actions)
